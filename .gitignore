@@ -3,7 +3,7 @@
 /workspace.xml
 /vcs.xml
 /modules.xml
-/01/.idea
+*.idea
 /01.iml
 # Editor-based HTTP Client requests
 /httpRequests/
