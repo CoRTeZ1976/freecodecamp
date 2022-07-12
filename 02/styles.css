@@ -9,18 +9,19 @@ h1 {
 	margin: 10px auto;
 }
 
-.one {
-	background: rgb(255, 0, 0);
+.red {
+	background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0));
 }
 
-.two{
+.green{
 	background: rgb(0, 255, 0);
 }
 
-.three {
+.blue {
 	background: rgb(0, 0, 255);
 }
 
 .container {
-	background: rgb(0, 0, 0);
+	background: rgb(255, 255, 255);
+	padding: 10px 0;
 }
